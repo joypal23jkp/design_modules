@@ -1,2 +1,2 @@
-# design_modules
-Designs modules for html, react as well as vue
+## Design Modules
+_Design modules for HTML, React and vue._
